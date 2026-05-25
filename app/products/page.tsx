@@ -7,6 +7,7 @@ import { Navbar } from '@/components/navbar'
 import { Footer } from '@/components/footer'
 import { ShoppingCart, Check } from 'lucide-react'
 import { useState } from 'react'
+import { toast } from '@/hooks/use-toast'
 
 export default function ProductsPage() {
   const { addToCart } = useCart()
@@ -15,6 +16,7 @@ export default function ProductsPage() {
   const handleAddToCart = (laptop: typeof laptops[0]) => {
     addToCart(laptop)
     setAddedId(laptop.id)
+    toast({ title: 'Added to cart', description: laptop.name })
     setTimeout(() => setAddedId(null), 1500)
   }
 

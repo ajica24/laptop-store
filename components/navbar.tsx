@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { ShoppingCart, Menu, X } from 'lucide-react'
 import { useCart } from '@/context/cart-context'
 import { useState } from 'react'
+import { ThemeToggle } from './theme-toggle'
 
 export function Navbar() {
   const { totalItems } = useCart()
@@ -31,6 +32,7 @@ export function Navbar() {
           </div>
 
           <div className="flex items-center gap-4">
+            <ThemeToggle />
             <Link
               href="/cart"
               className="relative flex items-center gap-2 hover:text-gold transition-colors"
