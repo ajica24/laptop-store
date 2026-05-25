@@ -19,10 +19,10 @@ export function About() {
               <Laptop className="w-8 h-8 text-gold" />
             </div>
             <h3 className="text-xl font-semibold text-foreground mb-3">
-              Premium Selection
+              Premium Laptops
             </h3>
             <p className="text-muted-foreground">
-              We offer only the best laptops from top brands like ASUS, Lenovo, Dell, Apple, and Acer.
+              We offer the best laptops from top brands like ASUS, Lenovo, Dell, Apple, and Acer.
             </p>
           </div>
 
