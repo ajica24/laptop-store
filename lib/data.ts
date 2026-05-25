@@ -15,7 +15,7 @@ export const laptops: Laptop[] = [
     brand: 'ASUS',
     specs: 'Intel Core i9-13980HX, RTX 4070, 16GB DDR5, 1TB SSD, 16" QHD 240Hz',
     price: 129990,
-    image: '/asus-rog.jpg',
+    image: '/asus-rog.svg',
     category: 'Gaming'
   },
   {
@@ -24,7 +24,7 @@ export const laptops: Laptop[] = [
     brand: 'Lenovo',
     specs: 'Intel Core i9-13900HX, RTX 4080, 32GB DDR5, 1TB SSD, 16" WQXGA 240Hz',
     price: 159990,
-    image: '/lenovo-legion.jpg',
+    image: '/lenovo-legion.svg',
     category: 'Gaming'
   },
   {
@@ -33,7 +33,7 @@ export const laptops: Laptop[] = [
     brand: 'Dell',
     specs: 'Intel Core i7-13700H, RTX 4060, 16GB DDR5, 512GB SSD, 15.6" OLED 3.5K',
     price: 109990,
-    image: '/dell-xps.jpg',
+    image: '/dell-xps.svg',
     category: 'Professional'
   },
   {
@@ -42,7 +42,7 @@ export const laptops: Laptop[] = [
     brand: 'Apple',
     specs: 'Apple M3 Pro, 18GB Unified Memory, 512GB SSD, 16.2" Liquid Retina XDR',
     price: 149990,
-    image: '/macbook-pro.jpg',
+    image: '/macbook-pro.svg',
     category: 'Professional'
   },
   {
@@ -51,7 +51,7 @@ export const laptops: Laptop[] = [
     brand: 'Acer',
     specs: 'Intel Core i9-13900HX, RTX 4080, 32GB DDR5, 1TB SSD, 18" WQXGA 250Hz',
     price: 169990,
-    image: '/acer-predator.jpg',
+    image: '/acer-predator.svg',
     category: 'Gaming'
   }
 ]

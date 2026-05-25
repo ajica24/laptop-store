@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#1a1a2e"/>
+  <rect x="120" y="180" width="560" height="320" rx="12" fill="#16213e" stroke="#d4af37" stroke-width="3"/>
+  <rect x="200" y="220" width="400" height="240" rx="4" fill="#0f3460"/>
+  <text x="400" y="420" text-anchor="middle" fill="#d4af37" font-family="system-ui,sans-serif" font-size="28" font-weight="bold">ASUS ROG</text>
+  <text x="400" y="460" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="16">Gaming Laptop</text>
+</svg>

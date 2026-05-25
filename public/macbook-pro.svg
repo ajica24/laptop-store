@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#18181b"/>
+  <rect x="150" y="190" width="500" height="300" rx="16" fill="#27272a" stroke="#d4af37" stroke-width="2"/>
+  <rect x="230" y="230" width="340" height="220" rx="4" fill="#3f3f46"/>
+  <circle cx="400" cy="520" r="8" fill="#52525b"/>
+  <text x="400" y="420" text-anchor="middle" fill="#d4af37" font-family="system-ui,sans-serif" font-size="28" font-weight="bold">MacBook Pro</text>
+  <text x="400" y="460" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="16">Apple</text>
+</svg>

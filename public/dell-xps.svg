@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#0f172a"/>
+  <rect x="140" y="200" width="520" height="280" rx="8" fill="#1e293b" stroke="#d4af37" stroke-width="2"/>
+  <rect x="220" y="240" width="360" height="200" rx="2" fill="#334155"/>
+  <text x="400" y="420" text-anchor="middle" fill="#d4af37" font-family="system-ui,sans-serif" font-size="28" font-weight="bold">Dell XPS</text>
+  <text x="400" y="460" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="16">Professional</text>
+</svg>
