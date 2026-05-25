@@ -60,8 +60,8 @@ export function Contact() {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Address</h3>
                   <p className="text-muted-foreground">
-                    123 Tech Avenue, Makati City<br />
-                    Metro Manila, Philippines 1234
+                    Santa Mesa, Manila City<br />
+                    Metro Manila, Philippines
                   </p>
                 </div>
               </div>
